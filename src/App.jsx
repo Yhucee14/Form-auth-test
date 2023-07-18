@@ -1,5 +1,5 @@
 import Dashboard from './components/Dashboard'
-import Auth from './components/auth';
+import Auth from './components/Auth';
 import './App.css'; 
 
 import { useUserContext } from "./context/userContext"
